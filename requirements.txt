@@ -1,7 +1,8 @@
-pandas
-numpy
 tensorflow
-mediapipe
-cv2
+mediapipe 
+opencv-python
 av
 streamlit_webrtc
+streamlit
+numpy
+pandas
