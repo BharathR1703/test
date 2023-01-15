@@ -1,7 +1,6 @@
 tensorflow
 mediapipe 
 opencv-python
-cv2
 av
 streamlit_webrtc
 streamlit
